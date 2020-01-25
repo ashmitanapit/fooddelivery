@@ -11,14 +11,14 @@ class Login extends Component {
                     <button className={"btn primary-btn"}>Sign up</button>
 
 
-                        {/*/!*<label>*!/LOGIN<br/>*/}
-                        {/*User-Id: <input type="text" name="name" /><br/>*/}
-                        {/*Password:<input type="Password" name ="password"/><br/>*/}
-                        {/*    <button className={"btn primary-btn"} >Sign In</button>*/}
-                        {/*    <button className={"btn primary-btn"}>Log in </button>*/}
+                        <label>LOGIN<br/>
+                        User-Id: <input type="text" name="name" /><br/>
+                        Password:<input type="Password" name ="password"/><br/>
+                            <button className={"btn primary-btn"} >Sign In</button>
+                            <button className={"btn primary-btn"}>Log in </button>
 
-                        {/*</label>*/}
-                        {/*<input type="submit" value="Submit" />*/}
+                        </label>
+                        <input type="submit" value="Submit" />
 
                 </div>
             </section>

@@ -13,13 +13,6 @@ class Dialog extends Component {
                 <div className="modal-box">
                     <div className="form-area">
                         <h1>Do you want to place your order</h1>
-                        <form>
-                            <label  >Address:</label>
-                            <input type="text-area" id="address" name="adress" placeholder="Your address..."/><br/>
-                            <label>Phone no.:</label>
-                            <input type="number" name={"phone"}/>
-                            </form>
-                        <h3>Delivery time is confirmed via call</h3>
                     </div>
                     <div className="button-area">
                     <button onClick={this.submitForm} className={'btn primary-btn'}>Submit</button>

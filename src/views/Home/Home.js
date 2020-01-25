@@ -42,16 +42,16 @@ class Home extends Component {
                                  onClick={() => this.selectCategoryHandler(type.name)}>{type.name}</div>
                         ))}
                     </div>
-                    {/*<div className="recipe-list">*/}
-                    {/*    <div className="search-bar">*/}
-                    {/*        <div className="search-box">*/}
-                    {/*            <input type="text" placeholder={'Search'}/>*/}
-                    {/*            <i className="material-icons">search</i>*/}
-                    {/*        </div>*/}
-                    {/*        <div className="sort-by">*/}
-                    {/*            Sort by : newest*/}
-                    {/*        </div>*/}
-                    {/*    </div>*/}
+                    <div className="recipe-list">
+                        <div className="search-bar">
+                            <div className="search-box">
+                                <input type="text" placeholder={'Search'}/>
+                                <i className="material-icons">search</i>
+                            </div>
+                            <div className="sort-by">
+                                Sort by : newest
+                            </div>
+                        </div>
                         <div className="recipe-items">
                             {this.state.filteredFoodItems.length == 0 ?( <h1>The category does not have items yet</h1> ):
                                 (

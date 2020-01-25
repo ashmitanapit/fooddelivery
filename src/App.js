@@ -3,7 +3,7 @@ import logo from './logo.svg';
 import './App.css';
 import {Route, Switch} from 'react-router-dom';
 import Topnav from "./containers/Topnav/Topnav";
-// import Login from "./views/Login/Login";
+import Login from "./views/Login/Login";
 import './assets/css/variables.css'
 import './assets/css/theme.css';
 import './assets/css/page.css';
