@@ -9,7 +9,7 @@ class Contacts extends Component{
             <div>
 
                     <div className="Contacts">
-                        <h1 className="heading">  Please inform about all your queries,complains or doubts!! </h1>
+                        <h1 className="heading">  Please inform all your queries,complains or doubts!! </h1>
                     </div>
                 <img src ={contactus} alt ="Contact" height={'80%'} width={'100%'}/>
                 <section className={'contactss'}>
