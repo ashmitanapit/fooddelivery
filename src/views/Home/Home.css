@@ -23,6 +23,11 @@
     display: flex;
     position: sticky;
     top:0vh;
+    cursor:default;
+
+}
+.recipe-side-bar-item{
+    cursor: pointer;
 }
 .recipe-side-bar{
     width: 30%;
