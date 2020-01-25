@@ -11,9 +11,15 @@ class About extends Component {
 
                 <div className="About">
                 <p>
-                    Foodies is a norm for restaurants which offer takeout and delivery orders. It allows the customer to choose from various categories.
+                    Foodies is a norm for restaurants which offer takeout and delivery orders.
+                    It allows the customer to choose from various categories.
                     And payment can be done through cash on delivery.
-                </p>
+                    A customer can choose to have the food delivered or for pick-up.
+                    </p>
+                    <p4>
+                    We know that your time is valuable and sometimes every minute in the day counts.
+                    That’s why we deliver! So you can spend more time doing the things you love.
+                </p4>
                 </div>
             </section>
         );

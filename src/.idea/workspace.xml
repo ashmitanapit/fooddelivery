@@ -3,10 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="a8c77749-20fd-44ca-8ad6-c9f960d8ecb9" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/utils/categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/utils/categories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pages/utils/foods.js" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/utils/foods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pages/component/RecipeBox/RecipeBox.css" beforeDir="false" afterPath="$PROJECT_DIR$/Pages/component/RecipeBox/RecipeBox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/component/Dialog/Dialog.js" beforeDir="false" afterPath="$PROJECT_DIR$/component/Dialog/Dialog.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/hoc/utils/categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/hoc/utils/categories.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/utils/foods.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/foods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/utils/foods.js" beforeDir="false" afterPath="$PROJECT_DIR$/hoc/utils/foods.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hoc/views/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/hoc/views/About/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/categories.js" beforeDir="false" afterPath="$PROJECT_DIR$/utils/categories.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/About/About.css" beforeDir="false" afterPath="$PROJECT_DIR$/views/About/About.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/About/About.js" beforeDir="false" afterPath="$PROJECT_DIR$/views/About/About.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/FoodItems/FoodItems.css" beforeDir="false" afterPath="$PROJECT_DIR$/views/FoodItems/FoodItems.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +72,8 @@
       <workItem from="1579942670413" duration="53000" />
       <workItem from="1579959582759" duration="4407000" />
       <workItem from="1579964106452" duration="321000" />
-      <workItem from="1579964449647" duration="9418000" />
+      <workItem from="1579964449647" duration="10023000" />
+      <workItem from="1579977157186" duration="5240000" />
     </task>
     <servers />
   </component>

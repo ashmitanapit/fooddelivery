@@ -6,7 +6,7 @@
     text-align: center;
     box-shadow: 1px 1px 8px rgba(0,0,0,0.12);
     text-decoration: none;
-    cursor:pointer;
+    cursor: context-menu;
     margin:10px 0;
 }
 .recipe-box img{

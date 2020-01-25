@@ -14,8 +14,12 @@ class Dialog extends Component {
                     <div className="form-area">
                         <h1>Do you want to place your order</h1>
                         <form>
+                            <label  >Name:</label>
+                            <input type="texr-area" id="name" name="name" placeholder="Enter name.."/><br/>
                             <label  >Address:</label>
-                            <input type="text-area" id="address" name="adress" placeholder="Your address..."/><br/>
+                            <input type="text-area" id="address" name="adress" placeholder="Delivery location"/><br/>
+                            <label  >Contact:</label>
+                            <input type="number" id="contact" name="contact" placeholder="your contact"  maxlength="10"/><br/>
                         </form>
 
                     </div>
