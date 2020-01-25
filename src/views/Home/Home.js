@@ -1,9 +1,7 @@
 import React, {Component} from 'react';
 import banner from '../../assets/images/banner.webp';
 import './Home.css';
-import burger from '../../assets/images/Pages/burger.jpg'
-import pizza from '../../assets/images/Pages/pizza.jpg'
-import momo from "../../assets/images/Pages/momo.jpg"
+
 import RecipeBox from "../../component/RecipeBox/RecipeBox";
 import categories from "../../utils/categories";
 import foods from "../../utils/foods";
@@ -62,7 +60,7 @@ class Home extends Component {
                             }
                         </div>
                     </div>
-                {/*</div>*/}
+                </div>
             </section>
         );
     }

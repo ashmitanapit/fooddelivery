@@ -1,9 +1,7 @@
 import React, {Component} from 'react';
-import logo from './logo.svg';
 import './App.css';
 import {Route, Switch} from 'react-router-dom';
-import Topnav from "./containers/Topnav/Topnav";
-import Login from "./views/Login/Login";
+import Topnav from "./containers/Topnav/Topnav"
 import './assets/css/variables.css'
 import './assets/css/theme.css';
 import './assets/css/page.css';
@@ -13,7 +11,7 @@ import About from "./views/About/About";
 import Contacts from "./views/Contacts/Contacts";
 import Welcome from "./views/Welcome/Welcome";
 import axios from 'axios';
-
+import Login from "./views/Login/Login";
 
 class App extends Component {
     constructor(props) {
@@ -49,7 +47,7 @@ class App extends Component {
                     <Switch>
                         <Route exact path="/" component={Welcome}/>
                         <Route exact path="/explore/" component={Home}/>
-                        {/*<Route exact path="/login/" component={Login}/>*/}
+                        <Route exact path="/login/" component={Login}/>
                         <Route exact path="/about/" component={About}/>
                         <Route exact path="/item/:id" component={FoodItems}/>
                         <Route exact path="/contacts/" component={Contacts}/>
