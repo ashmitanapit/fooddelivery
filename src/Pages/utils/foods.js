@@ -13,6 +13,10 @@ import FishandChip from "../assets/images/FishandChip.jpg"
 import ButterChicken from "../assets/images/ButterChicken.jpg"
 import RajmaChawal from "../assets/images/RajmaChawal.jpg"
 import EggyBreadBit from "../assets/images/EggyBreadBit.jpg"
+import ScotchEggs from "../assets/images/ScotchEggs.jpg"
+import Stuffedpotatos from "../assets/images/Stuffedpotatos.jpg"
+import whitechickenlasagna from "../assets/images/whitechickenlasagna.jpg"
+import brushetta from "../assets/images/brushetta.jpg"
 
 
 export default [
@@ -31,5 +35,14 @@ export default [
     { id:13, title:'ButterChicken', category:'Indian', price:190, image:ButterChicken, description:'Butter Chicken is a dish, originating in the Indian subcontinent, of chicken in a mildly spiced tomato sauce.'},
     { id:14, title:'RajmaChawal', category:'Indian', price:225, image:RajmaChawal, description:'Rājmā is a popular vegetarian dish consisting of red kidney beans in a thick gravy with many Indian whole spices, and is usually served with rice.'},
     { id:15, title:'Eggy Bread Bit', category:'Continental', price:125, image:EggyBreadBit, description:'Eggy Bread Bit is a soft bread, soaked in beaten egg and fried in lots of butter. '},
+    { id:16, title:'Brushetta', category:'Continental', price:125, image:brushetta, description:'Eggy Bread Bit is a soft bread, soaked in beaten egg and fried in lots of butter. '},
+    { id:17, title:'White chicken lasagna', category:'Continental', price:125, image:whitechickenlasagna, description:'Eggy Bread Bit is a soft bread, soaked in beaten egg and fried in lots of butter. '},
+    { id:18, title:'Stuffed potatos', category:'Continental', price:125, image:Stuffedpotatos, description:'Eggy Bread Bit is a soft bread, soaked in beaten egg and fried in lots of butter. '},
+    { id:19, title:'Scotch Eggs', category:'Continental', price:125, image:ScotchEggs, description:'Eggy Bread Bit is a soft bread, soaked in beaten egg and fried in lots of butter. '},
+    { id:20, title:'Eggy Bread Bit', category:'Continental', price:125, image:EggyBreadBit, description:'Eggy Bread Bit is a soft bread, soaked in beaten egg and fried in lots of butter. '},
+
+
+
+
 
 ]

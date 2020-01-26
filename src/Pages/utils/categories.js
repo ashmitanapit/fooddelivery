@@ -4,4 +4,5 @@ export default [
     {id:3, name:'european'},
     {id:4, name:'chinese'},
     {id:5, name:'indian'},
+    {id:6, name:'nepali'},
 ]
